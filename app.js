@@ -1,4 +1,4 @@
-const API_BASE = 'https://actividadesbackend-x77l.onrender.com'; // <- cambiar por la URL de Render o localhost:4000/api
+const API_BASE = 'https://actividadesbackend-x77l.onrender.com/api'; // <- cambiar por la URL de Render o localhost:4000/api
 
 
 // --- Helper ---
